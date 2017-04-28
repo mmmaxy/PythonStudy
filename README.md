@@ -6,4 +6,4 @@
 
 缺点：时间复杂度大 耗时 所以只用了片段作为检验
 
-![](https://github.com/mmmaxy/PythonStudy/raw/master/1/微信截图_20170428202153.png)
+![](https://github.com/mmmaxy/PythonStudy/raw/master/1/1.png)
